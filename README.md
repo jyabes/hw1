@@ -1,12 +1,19 @@
 # GIT & GITHUB - HW1
 
-
-# hw1 - Git and Github
-
 # TO DO: 
 Build a Github Respository that describes yourself
 
-# 
+# REQUIREMENTS:
+Add a partner as collaborator.
+Optional: To add a teammate create a temporary Github user if you prefer  to work alone on this project.
+
+
+
+
+
+
+
+
 
 here here here....
 
