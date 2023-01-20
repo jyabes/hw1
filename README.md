@@ -1,13 +1,21 @@
-<snipet>
-    <content><!CDATA[]
-# ${1:PROJECT NAME}
+# GIT & GITHUB - HW1
 
 
-# hw1 - Git and Github  -------
+# hw1 - Git and Github
 
-# Assignment Description
+# TO DO: 
 Build a Github Respository that describes yourself
+
+# 
 
 here here here....
 
-update and test git push
+update and test git push ----- X
+
+update 2: git commit -m"Updating readme file" ---- X
+
+update 3: git commit -m"Updating README file"  ----- X
+
+update 3:   git add .
+            git commit -m"Updating README file"
+            git push
